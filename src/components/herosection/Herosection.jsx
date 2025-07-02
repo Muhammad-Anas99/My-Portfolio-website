@@ -29,7 +29,7 @@ const Herosection = () => {
           </div>
           <div className="socialmedia">
             <a
-              href="https://www.linkedin.com/in/muhammad-zohaib-b94280190/"
+              href="https://www.linkedin.com/in/muhammad-anas-7b4b6a372/"
               target="_blank"
               rel="noopener noreferrer"
             >
