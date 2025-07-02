@@ -51,6 +51,7 @@ export const projectdata = [
     livedemo: false,
     hover: true,
   },
+/*  
   {
     id: 4,
     projectpicture: project4,
@@ -64,7 +65,7 @@ export const projectdata = [
     live: "https://funnyexcusegenerator.vercel.app/",
     livedemo: true,
     hover: true,
-  },
+  }*/
   {
     id: 5,
     projectpicture: project5,
