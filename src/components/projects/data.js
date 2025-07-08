@@ -103,8 +103,8 @@ export const projectdata = [
     projectlanguage2: "Tailwindcss",
     rowreverse: false,
     code: "https://github.com/MuhammadAnas-ctrl?tab=repositories&q=pass&type=&language=&sort=",
-    livedemo: false,
-    live: "https://figmatoreact.vercel.app/",
+    livedemo: true,
+    live: "https://passwordgeneratorbyanas.netlify.app/",
     hover: true,
   },
   {
