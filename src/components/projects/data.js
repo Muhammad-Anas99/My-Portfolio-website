@@ -1,5 +1,5 @@
 import project1 from "../../Images/project1.png";
-import project2 from "../../Images/fiverrproject.png";
+import project2 from "../../Images/vercel.app.jpg";
 import project3 from "../../Images/cryptoo.png";
 import project4 from "../../Images/funnyexcusee.png";
 import project5 from "../../Images/teenziapparal.png";
