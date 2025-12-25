@@ -28,9 +28,9 @@ export const projectdata = [
   {
     id: 2,
     projectpicture: project2,
-    projectname: "Worker Website 👀",
+    projectname: "The Shoe Store👀",
     projectdesc:
-      "This is the Worker Website! I have make this using Html Css Javascript. I have learn many things while cloning this. This only containes the frontend part only. 😄",
+      "This is a Shoes Website I have make this using Html Css Javascript. I have learn many things while creating this. This only containes the frontend part only. 😄",
     projectlanguage1: "Javascript",
     projectlanguage2: "Css",
     rowreverse: true,
