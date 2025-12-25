@@ -155,7 +155,7 @@ export const projectdata = [
   },
   {
     id: 11,
-    projectpicture: project11,
+    projectpicture: project12,
     projectname: "Book Store Website🚀",
     projectdesc:
       "This project is just a frontend part for one of my client, here I have used the ReactJS and TailwindCSS and the code is fully optimized, inshort best for SEO..",
@@ -169,7 +169,7 @@ export const projectdata = [
   },
   {
     id: 12,
-    projectpicture: project12,
+    projectpicture: project13,
     projectname: "Converter.Io 🚀",
     projectdesc:
       "In this website you can convert Binary to text and text to binary, here I have used the JavaScript and the code is fully optimized, inshort best for SEO..",
