@@ -9,6 +9,9 @@ import project8 from "../../Images/fooddel.png";
 import project9 from "../../Images/ontheway.gif";
 import project10 from "../../Images/PEKISA.png";
 import project11 from "../../Images/Eshop.png";
+import project12 from "../../Images/book.jpg";
+import project13 from "../../Images/binary.jpg";
+
 
 export const projectdata = [
   {
@@ -149,5 +152,34 @@ export const projectdata = [
     livedemo: true,
     live: "https://pekisa.vercel.app/",
     hover: true,
+  },
+  {
+    id: 11,
+    projectpicture: project11,
+    projectname: "Book Store Website🚀",
+    projectdesc:
+      "This project is just a frontend part for one of my client, here I have used the ReactJS and TailwindCSS and the code is fully optimized, inshort best for SEO..",
+    projectlanguage1: "ReactJS",
+    projectlanguage2: "Tailwind",
+    rowreverse: true,
+    code: "",
+    livedemo: true,
+    live: "https://books-store-website.vercel.app/",
+    hover: true,
+  },
+  {
+    id: 12,
+    projectpicture: project12,
+    projectname: "Converter.Io 🚀",
+    projectdesc:
+      "In this website you can convert Binary to text and text to binary, here I have used the JavaScript and the code is fully optimized, inshort best for SEO..",
+    projectlanguage1: "Html",
+    projectlanguage2: "JavaScript",
+    rowreverse: true,
+    code: "",
+    livedemo: true,
+    live: "https://convert-text-to-binary-binary-to-text.vercel.app/",
+    hover: true,
   }
+  
 ];
