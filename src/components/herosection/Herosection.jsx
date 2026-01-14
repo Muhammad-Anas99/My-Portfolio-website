@@ -37,7 +37,7 @@ const Herosection = () => {
             </a>
 
             <a
-              href="https://github.com/MuhammadZohaib28"
+              href="https://github.com/MuhammadAnas-ctrl"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -45,7 +45,7 @@ const Herosection = () => {
             </a>
 
             <a
-              href="https://www.upwork.com/freelancers/muhammadzohaibs2"
+              href="https://www.upwork.com/freelancers/~012bde4d0f2bb64e5e"
               target="_blank"
               rel="noopener noreferrer"
             >
