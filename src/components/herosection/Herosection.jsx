@@ -53,9 +53,7 @@ const Herosection = () => {
             </a>
           </div>
         </div>
-    /*   <div className="right">
-          <img src={zohaibpicture} alt="" />
-        </div> */
+    
       </div>
       <div className="bottom">
         <div className="left">
