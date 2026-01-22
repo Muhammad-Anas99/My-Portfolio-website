@@ -44,7 +44,7 @@ export const contactdata = [
     title: "LinkedIn",
     title2: "M.Anas",
     img: linkedInImage,
-    link: "https://www.linkedin.com/in/khalid-hussain-6b5b5767/",
+    link: "https://www.linkedin.com",
     hover: true,
   },
   {
@@ -58,9 +58,9 @@ export const contactdata = [
   {
     id: 6,
     title: "Instagram",
-    title2: "anaskxyz",
+    title2: "How.Website.Dev",
     img: instagramImage,
-    link: "https://www.instagram.com/anaskxyz/",
+    link: "https://www.instagram.com/how.website.dev/",
     hover: true,
   },
 ];
