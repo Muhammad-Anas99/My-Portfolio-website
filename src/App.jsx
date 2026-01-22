@@ -19,7 +19,7 @@ const App = () => {
   return (
     <div>
       <div className="app" button={toggleTheme} id={theme}>
-        <Banner />
+  
         <Navbar button={toggleTheme} name={theme} />
         <Herosection />
         <Aboutme />
