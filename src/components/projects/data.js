@@ -11,9 +11,24 @@ import project10 from "../../Images/PEKISA.png";
 import project11 from "../../Images/Eshop.png";
 import project12 from "../../Images/book.jpg";
 import project13 from "../../Images/binary.jpg";
+import project14 from "../../Images/8f9627d9f222cd4ce36c24eecfea3d0c8c757dcdc3192d27bf7f5017be777e93.jpeg";
 
 
 export const projectdata = [
+  {
+    id: 13,
+    projectpicture: project14,
+    projectname: "Fast Food Website | Cravings, Delivered at Full Speed",
+    projectdesc:
+      "Hot, fresh, and ready when you are. Experience the perfect crunch and the juiciest bites in town. Order now and satisfy your hunger in minutes.",
+    projectlanguage1: "Javascript",
+    projectlanguage2: "CSS",
+    code: "",
+    live: "https://new-food-website-ochre.vercel.app/index.html",
+    rowreverse: false,
+    livedemo: true,
+    hover: true,
+  },
   {
     id: 1,
     projectpicture: project1,
