@@ -29,7 +29,7 @@ const Herosection = () => {
           </div>
           <div className="socialmedia">
             <a
-              href="https://www.linkedin.com/in/muhammad-anas-7b4b6a372/"
+              href="https://www.linkedin.com/in/anas-khalid-0b55a03ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -37,7 +37,7 @@ const Herosection = () => {
             </a>
 
             <a
-              href="https://github.com/MuhammadZohaib28"
+              href="https://github.com/Muhammad-Anas99"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -45,7 +45,7 @@ const Herosection = () => {
             </a>
 
             <a
-              href="https://www.upwork.com/freelancers/muhammadzohaibs2"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
             >
