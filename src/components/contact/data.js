@@ -10,8 +10,8 @@ const handleHireMeClick = () => {
 };
 
 const handleWhatsApp = () => {
-  const phoneNumber = "+923017633400"; // Replace with the recipient's phone number
-  const message = "Hello! ❤️"; // Replace with your desired message
+  const phoneNumber = "+923021206595";
+  const message = "Hello! ❤️";
 
   const url = `https://api.whatsapp.com/send?phone=${phoneNumber}&text=${message}`;
   window.open(url);
@@ -52,15 +52,15 @@ export const contactdata = [
     title: "Facebook",
     title2: "Anas Khalid",
     img: facebookImage,
-    link: "https://www.facebook.com/profile.php?id=61563022020119",
+    link: "https://www.facebook.com/",
     hover: true,
   },
   {
     id: 6,
     title: "Instagram",
-    title2: "How.Website.Dev",
+    title2: "anaskxyz",
     img: instagramImage,
-    link: "https://www.instagram.com/how.website.dev/",
+    link: "https://www.instagram.com/anaskxyz/",
     hover: true,
   },
 ];
