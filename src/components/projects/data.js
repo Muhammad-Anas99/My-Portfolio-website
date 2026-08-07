@@ -12,9 +12,40 @@ import project11 from "../../Images/Eshop.png";
 import project12 from "../../Images/book.jpg";
 import project13 from "../../Images/binary.jpg";
 import project14 from "../../Images/8f9627d9f222cd4ce36c24eecfea3d0c8c757dcdc3192d27bf7f5017be777e93.jpeg";
+import project16 from "../../Images/modernrestaurant.jpg";
+import project15 from "../../Images/toolhub.jpg";
+
+
 
 
 export const projectdata = [
+    {
+    id: 15,
+    projectpicture: project16,
+    projectname: "Savor the Craft: Authentic Flavors, Modern Dining",
+    projectdesc:"Experience a culinary journey where seasonal, locally sourced ingredients meet innovative cooking techniques. Book your unforgettable table or order online today.",
+    projectlanguage1: "Javascript",
+    projectlanguage2: "CSS",
+    code: "",
+    live: "https://modernrestaurant-website.vercel.app/",
+    rowreverse: false,
+    livedemo: true,
+    hover: true,
+  },
+    {
+    id: 14,
+    projectpicture: project15,
+    projectname: "ToolHub: The Ultimate All-in-One Digital Workspace",
+    projectdesc:
+      "Streamline your daily workflow with our centralized hub of premium online utilities. Access file converters, developer scripts, and design tools instantly from any device.",
+    projectlanguage1: "React",
+    projectlanguage2: "NodeJS",
+    code: "",
+    live: "https://toolhub-website.vercel.app/",
+    rowreverse: false,
+    livedemo: true,
+    hover: true,
+  },
   {
     id: 13,
     projectpicture: project14,
@@ -22,7 +53,7 @@ export const projectdata = [
     projectdesc:
       "Hot, fresh, and ready when you are. Experience the perfect crunch and the juiciest bites in town. Order now and satisfy your hunger in minutes.",
     projectlanguage1: "Javascript",
-    projectlanguage2: "CSS",
+    projectlanguage2: "NodeJs",
     code: "",
     live: "https://new-food-website-ochre.vercel.app/index.html",
     rowreverse: false,
