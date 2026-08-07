@@ -12,8 +12,8 @@ import project11 from "../../Images/Eshop.png";
 import project12 from "../../Images/book.jpg";
 import project13 from "../../Images/binary.jpg";
 import project14 from "../../Images/8f9627d9f222cd4ce36c24eecfea3d0c8c757dcdc3192d27bf7f5017be777e93.jpeg";
-import project16 from "../../Images/modernrestaurant.jpg";
-import project15 from "../../Images/toolhub.jpg";
+import project16 from "../../Images/modernrestaurant.png";
+import project15 from "../../Images/toolhub.png";
 
 
 
